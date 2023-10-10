@@ -1,4 +1,4 @@
-# <img src="https://www.engiel.com/wp-content/uploads/2020/04/GIF-Smart-Working_gatto.gif" width="40" height="35" /> matiolsz
+# matiolsz
 
 **` Software Dev ( Java, Angular ) `**
 
