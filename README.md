@@ -10,11 +10,11 @@ dive into new topics.
 <a href="https://youtu.be/KKcMnoBBaYU" target="_blank">
  <img src="http://i3.ytimg.com/vi/KKcMnoBBaYU/hqdefault.jpg" alt="Todo App" width="260" height="180" border="40" />
 </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
 <a href="https://youtu.be/KKcMnoBBaYU" target="_blank">
  <img src="http://i3.ytimg.com/vi/KKcMnoBBaYU/hqdefault.jpg" alt="Watch the video" width="260" height="180" border="10" />
 </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;
 <a href="https://youtu.be/KKcMnoBBaYU" target="_blank">
  <img src="http://i3.ytimg.com/vi/KKcMnoBBaYU/hqdefault.jpg" alt="Watch the video" width="260" height="180" border="10" />
 </a>
