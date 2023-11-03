@@ -9,7 +9,10 @@ dive into new topics.
 In high school I found out that I really like math exercises. Similarly I find coding exercises entertaining. You can see link to some of my solved exercises below: 
 
 <a href="https://exercism.org/profiles/matiolsz" target="_blank">
- <img src="https://avatars.githubusercontent.com/u/5624255?s=200&v=4" alt="Exercism"  border="40" />
+ <img src="https://avatars.githubusercontent.com/u/5624255?s=200&v=4" alt="Exercism" width="140" height="140"  border="40" />
+</a>
+<a href="https://leetcode.com/matiolsz/" target="_blank">
+ <img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt="LeetCode" width="140" height="140" border="40" />
 </a>
 
 ## Preview of my side projects
