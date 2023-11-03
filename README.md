@@ -1,4 +1,4 @@
-![image](https://github.com/matiolsz/matiolsz/assets/28234840/406d4e9c-6b3a-4f06-a1ff-04ba843c4f8a)# matiolsz
+# matiolsz
 
 **` Software Dev ( Java, Angular ) `**
 
