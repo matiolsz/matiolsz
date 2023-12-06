@@ -15,7 +15,7 @@ In high school I found out that I really like math exercises. Similarly I find c
  <img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt="LeetCode" width="100" height="100" border="100" />
 </a>
 
-## Preview of my side projects
+## Preview of my side projects - ecommerce, cv parser&generator and todo app
 <p align="middle"> 
 <a href="https://youtu.be/MWh8JTY3cjM" target="_blank">
  <img src="https://i.ytimg.com/an_webp/MWh8JTY3cjM/mqdefault_6s.webp?du=3000&sqp=CLazw6sG&rs=AOn4CLAdc8cLs7xoIqwYkxY-kwyDZ0TpSQ" alt="Watch the video" width="260" height="180" border="10" />
