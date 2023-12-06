@@ -25,8 +25,8 @@ In high school I found out that I really like math exercises. Similarly I find c
  <img src="https://i.ytimg.com/an_webp/MWh8JTY3cjM/mqdefault_6s.webp?du=3000&sqp=CLazw6sG&rs=AOn4CLAdc8cLs7xoIqwYkxY-kwyDZ0TpSQ" alt="Watch the video" width="260" height="180" border="10" />
 </a>
     &nbsp;&nbsp;&nbsp;
-<a href="https://youtu.be/KKcMnoBBaYU" target="_blank">
- <img src="http://i3.ytimg.com/vi/KKcMnoBBaYU/hqdefault.jpg" alt="Watch the video" width="260" height="180" border="10" />
+<a href="https://youtu.be/AT6cSrY-RCs" target="_blank">
+ <img src="https://i9.ytimg.com/vi/AT6cSrY-RCs/mqdefault.jpg?sqp=COzyw6sG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLBU9zG3vSZjIQxFa_uMbbyD9Lzhpw" alt="Watch the video" width="260" height="180" border="10" />
 </a>
 </p>
 <!--
