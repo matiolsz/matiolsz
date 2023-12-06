@@ -18,7 +18,7 @@ In high school I found out that I really like math exercises. Similarly I find c
 ## Preview of my side projects
 <p align="middle"> 
 <a href="https://youtu.be/KKcMnoBBaYU" target="_blank">
- <img src="http://i3.ytimg.com/vi/KKcMnoBBaYU/hqdefault.jpg" alt="Todo App" width="260" height="180" border="40" />
+ <img src="https://i9.ytimg.com/vi/KKcMnoBBaYU/mqdefault.jpg?sqp=CJDnw6sG-oaymwEmCMACELQB8quKqQMa8AEB-AHuCYAC0AWKAgwIABABGFggLSh_MA8=&rs=AOn4CLCQfcLX7hen06cqY6ULXx2H0qw3Tg" alt="Todo App" width="260" height="180" border="40" />
 </a>
   &nbsp;&nbsp;&nbsp;
 <a href="https://youtu.be/MWh8JTY3cjM" target="_blank">
