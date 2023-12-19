@@ -18,15 +18,15 @@ In high school I found out that I really like math exercises. Similarly I find c
 ## Preview of my side projects - ecommerce, cv parser&generator and todo app
 <p align="middle"> 
 <a href="https://youtu.be/MWh8JTY3cjM" target="_blank">
- <img src="https://i9.ytimg.com/vi/MWh8JTY3cjM/mqdefault.jpg?sqp=CJTS3asG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLAtB66-vQunZFX0Ye2PNqMQgrvOPQ" alt="Watch the video" width="260" height="180" border="10" />
+ <img src="https://postimg.cc/WdV1KJqm" alt="Watch the video" width="260" height="180" border="10" />
 </a>
     &nbsp;&nbsp;&nbsp;
 <a href="https://youtu.be/AT6cSrY-RCs" target="_blank">
- <img src="https://i9.ytimg.com/vi/AT6cSrY-RCs/mqdefault.jpg?sqp=CJTS3asG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLDNZBBhBpWz-uAqFnHEvjdKvONW9g" alt="Watch the video" width="260" height="180" border="10" />
+ <img src="https://postimg.cc/mPSgG27v" alt="Watch the video" width="260" height="180" border="10" />
 </a>
    &nbsp;&nbsp;&nbsp;
  <a href="https://youtu.be/KKcMnoBBaYU" target="_blank">
- <img src="https://i9.ytimg.com/vi/KKcMnoBBaYU/mqdefault.jpg?sqp=CJTS3asG-oaymwEmCMACELQB8quKqQMa8AEB-AHuCYAC0AWKAgwIABABGFggLSh_MA8=&rs=AOn4CLCIMKXui8buRr_F7aAQpnsG-GMBEg" alt="Todo App" width="260" height="180" border="40" />
+ <img src="https://postimg.cc/BXHvMCbQ" alt="Todo App" width="260" height="180" border="40" />
 </a>
 </p>
 <!--
