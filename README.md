@@ -18,15 +18,15 @@ In high school I found out that I really like math exercises. Similarly I find c
 ## Preview of my side projects - ecommerce, cv parser&generator and todo app
 <p align="middle"> 
 <a href="https://youtu.be/MWh8JTY3cjM" target="_blank">
- <img src="https://postimg.cc/WdV1KJqm" alt="Watch the video" width="260" height="180" border="10" />
+ <img src="https://iili.io/JAAvW4j.md.png" alt="Watch the video" width="260" height="180" border="10" />
 </a>
     &nbsp;&nbsp;&nbsp;
 <a href="https://youtu.be/AT6cSrY-RCs" target="_blank">
- <img src="https://postimg.cc/mPSgG27v" alt="Watch the video" width="260" height="180" border="10" />
+ <img src="https://iili.io/JAAvh3x.md.png" alt="Watch the video" width="260" height="180" border="10" />
 </a>
    &nbsp;&nbsp;&nbsp;
  <a href="https://youtu.be/KKcMnoBBaYU" target="_blank">
- <img src="https://postimg.cc/BXHvMCbQ" alt="Todo App" width="260" height="180" border="40" />
+ <img src="https://iili.io/JAAvjYQ.md.png" alt="Todo App" width="260" height="180" border="40" />
 </a>
 </p>
 <!--
