@@ -2,8 +2,7 @@
 
 **` Software Dev ( Java, Angular ) `**
 
-I am Software Developer who is interested in how systems are build and maintained. I build projects from the ground up and also join projects along the way and
-dive into new topics. 
+I am a software developer with a keen interest in the architecture and maintenance of systems. I have experience in building projects from the ground up as well as joining ongoing projects and diving into new topics.
 
 ## Solving issues
 In high school I found out that I really like math exercises. Similarly I find coding exercises entertaining. You can see link to some of my solved exercises below: 
