@@ -14,19 +14,24 @@ In high school I found out that I really like math exercises. Similarly I find c
  <img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt="LeetCode" width="100" height="100" border="100" />
 </a>
 
-## Preview of my side projects - ecommerce, cv parser&generator and todo app
+## Preview of my side projects - voting app, ecommerce, cv parser and generator and todo app
 <p align="middle"> 
-<a href="https://youtu.be/MWh8JTY3cjM" target="_blank">
- <img src="https://iili.io/JAAvW4j.md.png" alt="Watch the video" width="260" height="180" border="10" />
+  <a href="https://youtu.be/B_Xu2Q419fU" target="_blank">
+  <a href="https://youtu.be/B_Xu2Q419fU"><img src="https://i.ibb.co/gr2wN4H/Zrzut-ekranu-2024-09-19-233301.png" alt="Zrzut-ekranu-2024-09-19-233301" width="200" height="140" border="10"></a>
 </a>
     &nbsp;&nbsp;&nbsp;
 <a href="https://youtu.be/AT6cSrY-RCs" target="_blank">
- <img src="https://iili.io/JAAvh3x.md.png" alt="Watch the video" width="260" height="180" border="10" />
+ <img src="https://iili.io/JAAvh3x.md.png" alt="Watch the video" width="200" height="140" border="10" />
 </a>
    &nbsp;&nbsp;&nbsp;
  <a href="https://youtu.be/KKcMnoBBaYU" target="_blank">
- <img src="https://iili.io/JAAvjYQ.md.png" alt="Todo App" width="260" height="180" border="40" />
+ <img src="https://iili.io/JAAvjYQ.md.png" alt="Todo App" width="200" height="140" border="10" />
 </a>
+   &nbsp;&nbsp;&nbsp;
+<a href="https://youtu.be/MWh8JTY3cjM" target="_blank">
+ <img src="https://iili.io/JAAvW4j.md.png" alt="Watch the video" width="200" height="140" border="10" />
+</a>
+  
 </p>
 <!--
 **matiolsz/matiolsz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
