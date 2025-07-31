@@ -17,25 +17,23 @@ In high school I found out that I really like math exercises. Similarly I find c
 ## Preview of my side projects - bp monitor, voting app, ecommerce, cv parser and generator and todo app
 
 <p align="middle"> 
-  <a href="https://bpapp2--bloodpressureapp-c1e59.europe-west4.hosted.app/dashboard" target="_blank">
-  <a href="https://bpapp2--bloodpressureapp-c1e59.europe-west4.hosted.app/dashboard"><img src="https://ibb.co/6cdfkhF1" alt="https://ibb.co/6cdfkhF1" width="200" height="140" border="10"></a>
-</a>
+  <a href="[https://ibb.co/xSPzHk9p](https://bpapp2--bloodpressureapp-c1e59.europe-west4.hosted.app/dashboard)"><img src="https://i.ibb.co/RpZQyFrx/bpapp.png" alt="bpapp"  width="200" height="140" border="10"></a>
    &nbsp;&nbsp;&nbsp;
   <a href="https://youtu.be/B_Xu2Q419fU" target="_blank">
   <a href="https://youtu.be/B_Xu2Q419fU"><img src="https://i.ibb.co/gr2wN4H/Zrzut-ekranu-2024-09-19-233301.png" alt="https://ibb.co/4g151848" width="200" height="140" border="10"></a>
-</a>
+  </a>
    &nbsp;&nbsp;&nbsp;
-<a href="https://youtu.be/MWh8JTY3cjM" target="_blank">
- <img src="https://iili.io/JAAvW4j.md.png" alt="Watch the video" width="200" height="140" border="10" />
-</a>
- &nbsp;&nbsp;&nbsp;
-<a href="https://youtu.be/AT6cSrY-RCs" target="_blank">
- <img src="https://iili.io/JAAvh3x.md.png" alt="Watch the video" width="200" height="140" border="10" />
-</a>
+  <a href="https://youtu.be/MWh8JTY3cjM" target="_blank">
+   <img src="https://iili.io/JAAvW4j.md.png" alt="Watch the video" width="200" height="140" border="10" />
+  </a>
    &nbsp;&nbsp;&nbsp;
- <a href="https://youtu.be/KKcMnoBBaYU" target="_blank">
- <img src="https://iili.io/JAAvjYQ.md.png" alt="Todo App" width="200" height="140" border="10" />
-</a>
+  <a href="https://youtu.be/AT6cSrY-RCs" target="_blank">
+   <img src="https://iili.io/JAAvh3x.md.png" alt="Watch the video" width="200" height="140" border="10" />
+  </a>
+     &nbsp;&nbsp;&nbsp;
+  <a href="https://youtu.be/KKcMnoBBaYU" target="_blank">
+   <img src="https://iili.io/JAAvjYQ.md.png" alt="Todo App" width="200" height="140" border="10" />
+  </a>
   
 </p>
 <!--
