@@ -17,7 +17,7 @@ In high school I found out that I really like math exercises. Similarly I find c
 ## Preview of my side projects - bp monitor, voting app, ecommerce, cv parser and generator and todo app
 
 <p align="middle"> 
-  <a href="[https://ibb.co/xSPzHk9p](https://bpapp2--bloodpressureapp-c1e59.europe-west4.hosted.app/dashboard)"><img src="https://i.ibb.co/RpZQyFrx/bpapp.png" alt="bpapp"  width="200" height="140" border="10"></a>
+  <a href="https://bpapp2--bloodpressureapp-c1e59.europe-west4.hosted.app/dashboard"><img src="https://i.ibb.co/RpZQyFrx/bpapp.png" alt="bpapp"  width="200" height="140" border="10"></a>
    &nbsp;&nbsp;&nbsp;
   <a href="https://youtu.be/B_Xu2Q419fU" target="_blank">
   <a href="https://youtu.be/B_Xu2Q419fU"><img src="https://i.ibb.co/gr2wN4H/Zrzut-ekranu-2024-09-19-233301.png" alt="https://ibb.co/4g151848" width="200" height="140" border="10"></a>
